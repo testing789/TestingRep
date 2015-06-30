@@ -1,0 +1,5 @@
+c:\users\md\documents\visual studio 2010\Projects\5pm\5pm\bin\Debug\5pm.exe
+c:\users\md\documents\visual studio 2010\Projects\5pm\5pm\bin\Debug\5pm.pdb
+c:\users\md\documents\visual studio 2010\Projects\5pm\5pm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\md\documents\visual studio 2010\Projects\5pm\5pm\obj\x86\Debug\5pm.exe
+c:\users\md\documents\visual studio 2010\Projects\5pm\5pm\obj\x86\Debug\5pm.pdb
